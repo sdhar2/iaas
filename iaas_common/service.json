@@ -1,0 +1,19 @@
+[
+    {
+        "serviceName" : "iaas",
+        "serviceVersion": "1.0.2",
+        "serviceReleaseArtifact": "cloud-platform-infrastructure",
+        "releasedArtifacts":
+        [
+            {
+                "dockerRepository": "1.0.0"
+            }
+        ],
+        "releaseDependency":
+        [
+            {
+                     
+            }
+        ]
+    }
+] 
