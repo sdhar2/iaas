@@ -1,0 +1,9 @@
+[
+	{
+        "componentName":    "vmInfrastructure",
+        "componentDescr":   "ARRIS Cloud Platform: ACP VM Infrastructure",
+        "containerName":    "",
+        "componentVersion": "1.0.0",
+        "installFileBase":  "arrs-cloud-iaas-vmInfrastructure"
+	}
+]

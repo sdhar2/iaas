@@ -1,0 +1,18 @@
+         CREDENTIALS ARE CREATED AND DOWNLOADED FROM AMAZON'S WEBSITE
+
+              https://console.aws.amazon.com/iam ->
+              Identity and Access Management -> Users
+              check box next to your name -> User Actions -> Manage Access Keys
+              download your keys
+
+         YOUR CREDENTIALS NEED TO BE SET IN THE FOLLOWING FILES:
+
+             ~/.aws/credentials
+                 [default]
+                 aws_access_key_id=<YOUR ACCESS KEY ID>
+                 aws_secret_access_key=<YOUR SECRET KEY>
+
+              ~/.aws/config
+                  [default]
+                  region=us-west-2
+
